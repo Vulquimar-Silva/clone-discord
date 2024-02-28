@@ -31,7 +31,7 @@ git clone https://github.com/Vulquimar-Silva/clone-discord.git
 ### Install packages
 
 ```shell
-npm i
+yarn
 ```
 
 ### Setup .env file
