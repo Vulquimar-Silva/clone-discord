@@ -25,13 +25,13 @@ Features:
 ### Cloning the repository
 
 ```shell
-git clone https://github.com/
+git clone https://github.com/Vulquimar-Silva/clone-discord.git
 ```
 
 ### Install packages
 
 ```shell
-npm i
+yarn
 ```
 
 ### Setup .env file
@@ -68,7 +68,7 @@ npx prisma db push
 ### Start the app
 
 ```shell
-npm run dev
+yarn run dev
 ```
 
 ## Available commands
