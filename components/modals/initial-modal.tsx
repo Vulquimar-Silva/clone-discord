@@ -76,10 +76,10 @@ export const InitialModal = () => {
             <DialogContent className="bg-white text-black p-0 overflow-hidden">
                 <DialogHeader className="pt-8 px-6">
                     <DialogTitle className="text-2xl text-center font-bold">
-                        Customize your server
+                        Personalize seu servidor
                     </DialogTitle>
                     <DialogDescription className="text-center text-zinc-500">
-                        Give your server a personality with a name and an image. You can always change it later.
+                        Dê ao seu servidor uma personalidade com um nome e uma imagem. Você sempre pode alterá-lo mais tarde.
                     </DialogDescription>
                 </DialogHeader>
                 <Form {...form}>

@@ -212,11 +212,11 @@ export const ChatItem = ({
                                     )}
                                 />
                                 <Button disabled={isLoading} size="sm" variant="primary">
-                                    Save
+                                    Salvar
                                 </Button>
                             </form>
                             <span className="text-[10px] mt-1 text-zinc-400">
-                                Press escape to cancel, enter to save
+                                Press escape to cancel, enter to save.
                             </span>
                         </Form>
                     )}
