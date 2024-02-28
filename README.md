@@ -68,7 +68,7 @@ npx prisma db push
 ### Start the app
 
 ```shell
-npm run dev
+yarn run dev
 ```
 
 ## Available commands
