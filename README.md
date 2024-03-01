@@ -34,7 +34,7 @@ git clone https://github.com/Vulquimar-Silva/clone-discord.git
 yarn
 ```
 
-### Setup .env file
+### .env file
 
 ```js
 NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=
