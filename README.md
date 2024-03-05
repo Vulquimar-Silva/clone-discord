@@ -1,4 +1,4 @@
-# Fullstack Discord Clone: Next.js 13, React, Socket.io, Prisma, Tailwind, MySQL
+# Fullstack Discord Clone: Next.js 13, React, Socket.io, Prisma, Tailwind e MySQL
 
 Repositório Clone do Discord Fullstack: Next.js 13, React, Socket.io, Prisma, Tailwind, MySQL
 
